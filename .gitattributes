@@ -1,0 +1,5 @@
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+# Preserve the supplied research report byte-for-byte.
+docs/research/integrated-review.original.txt -text

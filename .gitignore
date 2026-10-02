@@ -1,0 +1,13 @@
+# Credentials and machine-local state
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.codex/
+.local/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
